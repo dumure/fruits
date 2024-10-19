@@ -11,7 +11,7 @@
     margin: 0px;
     padding: 0px;
 }
-.list li
+.list > li
 {
     background-color:palevioletred;
     margin: 10px;
